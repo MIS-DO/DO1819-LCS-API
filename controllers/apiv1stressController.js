@@ -12,7 +12,7 @@ module.exports.getStress = function getStress(req, res, next) {
         "value": req.swagger.params.subsequence1.value
       },
       {
-        "id": "subsequenc2",
+        "id": "subsequence2",
         "value": req.swagger.params.subsequence2.value
       }
     ],

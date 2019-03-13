@@ -40,7 +40,7 @@ In order to send a request, you must use GET:
       "value": "10000"
     },
     {
-      "id": "subsequenc2",
+      "id": "subsequence2",
       "value": "10"
     }
   ],

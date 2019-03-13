@@ -1,5 +1,5 @@
 FROM node:alpine
-LABEL maintainer="Pablo FM <pafmon@gmail.com>"
+LABEL maintainer="Ricardo Mercedes <ricmercedes@gmail.com>"
 
 RUN mkdir -p /opt/app
 

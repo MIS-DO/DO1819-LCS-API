@@ -5,7 +5,7 @@ This is a Long Common Subsequence API for stress analysis and benchmarking.
 
 LCS algorithm is taken from [elzzabi]https://www.npmjs.com/package/longest-common-subsequence.
 
-There is a **on-line demo** deployment available at: https://do1819-LCS-api.herokuapp.com
+There is a **on-line demo** deployment available at: https://do1819-lcs-api.herokuapp.com
 
 
 ### Running the API using docker
